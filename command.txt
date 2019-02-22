@@ -1,0 +1,1 @@
+curl -i --user user:user http://localhost:9091/available/availableHotels?city=AMM
